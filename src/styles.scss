@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/Roboto/Roboto-Regular.ttf');
+  }
+  @font-face {
+    font-family: 'Roboto-Light';
+    src: url('assets/fonts/Roboto/Roboto-Light.ttf');
+  }
+  @font-face {
+    font-family: 'Quando';
+    src: url('assets/fonts/Quando/Quando-Regular.ttf');
+  }
+  * {
+    font-family: "Roboto";
+  }
+  body { 
+    background: url(assets/images/background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }

@@ -1,0 +1,52 @@
+.carousel-control-prev-icon {
+    background-image: url("../../../../../assets/images/chevron-prev.png") !important;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 40px;
+   }
+   
+   .carousel-control-next-icon {
+     background-image: url("../../../../../assets/images/chevron-next.png") !important;
+     background-repeat: no-repeat;
+     width: 30px;
+     height: 40px;
+   }
+  .banner-text-area{
+    position: absolute;
+      right: 300px;
+      top: 0;
+      height: auto;
+      top: 0;
+      bottom: 0;
+      text-align: center;
+      color: #eab55d;
+      top: 60%;
+      transform: translateY(-60%);
+      width: 400px;
+  }
+  
+  .banner-text-area .slide-no{
+    font-size: 60px;
+  }
+  
+  .banner-text-area .slide-text{ 
+    font-family: 'Quando';
+    font-size: 50px;
+    line-height: 40px;
+  }
+  
+  .divider{
+    border: 3px solid #fff;
+    width: 60%;
+    margin: 0 auto;    
+    margin-bottom: 50px;
+    background: #fff;
+  }
+  
+  .diya-area{
+    position: absolute;
+    width: 187px;
+    height: 120px;
+    right: 52px;
+    bottom: 100px;
+  }

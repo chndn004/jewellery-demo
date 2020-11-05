@@ -1,0 +1,78 @@
+.listing-area.container-fluid{
+    padding: 30px 50px;
+  }
+ 
+  .new-section{ 
+   background: url(../../../../../assets/images/listing-area.jpg) no-repeat center center; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;  
+ }
+ 
+ .products{
+   max-height:650px;
+   height: auto;
+   overflow: auto;
+   margin: 40px 0;
+ }
+ 
+ .products ul{
+   list-style: none;
+ }
+ 
+ .products ul li{
+   width: 30%;
+   padding: 20px;
+   height: auto;
+   margin: 10px;
+   background: #2a2d12;
+ }
+ .products ul li .product-title{ 
+   font-size: 22px;
+   color:#fec465;
+   text-align: center;
+ }
+ .products ul li a:hover{ 
+   text-decoration: none;
+ }
+ 
+ .listing-area .title{
+   font-family: "Quando";
+   font-size: 67px;
+   color:#fec465;
+   text-align: center;
+ }
+ 
+ .listing-area .description{
+   font-family: "Roboto-Light";
+   font-size: 22px;
+   color:#ffffff;
+   text-align: center;
+ }
+ 
+ #style-2::-webkit-scrollbar,
+ #style-2::-webkit-scrollbar-thumb,
+ #style-2::-webkit-scrollbar-track { 
+     width: 12px;
+     border: none;
+     background: transparent;
+ }
+ 
+ #style-2::-webkit-scrollbar-button,
+ #style-2::-webkit-scrollbar-track-piece,
+ #style-2::-webkit-scrollbar-corner,
+ #style-2::-webkit-resizer {
+     display: none;
+ }
+ 
+ #style-2::-webkit-scrollbar-thumb {
+     border-radius: 6px;
+     background-color: #eab55d;
+ }
+ 
+ #style-2::-webkit-scrollbar-track {
+     background-image: url("../../../../../assets/images/scroll-track.png");
+     background-repeat: repeat-y;
+     background-size: contain;
+ }
