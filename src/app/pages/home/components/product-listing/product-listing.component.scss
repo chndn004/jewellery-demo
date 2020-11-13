@@ -23,15 +23,21 @@
  
  .products ul li{
    width: 30%;
-   padding: 20px;
+   padding: 0px;
    height: auto;
    margin: 10px;
-   background: #2a2d12;
+   //background: #2a2d12;
  }
  .products ul li .product-title{ 
    font-size: 22px;
    color:#fec465;
    text-align: center;
+   position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
  }
  .products ul li a:hover{ 
    text-decoration: none;
@@ -76,3 +82,27 @@
      background-repeat: repeat-y;
      background-size: contain;
  }
+
+ @media only screen and (max-width: 600px) {
+  .listing-area.container-fluid{
+    padding: 20px;
+  }
+  .new-section{
+    padding-top: 20px;
+  }
+  .listing-area .title{
+    font-size: 35px;
+  }
+  .listing-area .description{
+    font-size: 18px;
+  }
+  .products{
+    margin: 20px 0;
+  }
+  .products ul{
+    padding: 0;
+  }
+  .products ul li{
+    width: 100%;
+  }
+}

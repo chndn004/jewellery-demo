@@ -2,91 +2,91 @@
     {
         "Id": "0001",
         "name": "RAWA",
-        "img": "product1.png",
+        "img": "product1.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0002",
         "name": "Chandak",
-        "img": "product2.png",
+        "img": "product2.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0003",
         "name": "Filigree",
-        "img": "product3.png",
+        "img": "product3.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0004",
         "name": "Kundan",
-        "img": "product4.png",
+        "img": "product4.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0005",
         "name": "Aari",
-        "img": "product5.png",
+        "img": "product5.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0006",
         "name": "Partach",
-        "img": "product6.png",
+        "img": "product6.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0007",
         "name": "Intricate Stamp Work",
-        "img": "product7.png",
+        "img": "product7.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0008",
         "name": "Die Stamp",
-        "img": "product8.png",
+        "img": "product8.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "0009",
         "name": "Textured Sheet Work",
-        "img": "product9.png",
+        "img": "product9.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "00010",
         "name": "Chilai Work",
-        "img": "product10.png",
+        "img": "product10.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "00011",
         "name": "Meenakari ",
-        "img": "product11.png",
+        "img": "product11.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "00012",
         "name": "Ghungroos",
-        "img": "product12.png",
+        "img": "product12.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "00013",
         "name": "Nakkashi",
-        "img": "product13.png",
+        "img": "product13.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "00014",
         "name": "Cap Setting",
-        "img": "product14.png",
+        "img": "product14.jpg",
         "Url": "javascript:void(0)"
     },
     {
         "Id": "00015",
         "name": "Bezel Setting",
-        "img": "product15.png",
+        "img": "product15.jpg",
         "Url": "javascript:void(0)"
     }
   ]

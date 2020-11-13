@@ -50,3 +50,26 @@
     right: 52px;
     bottom: 100px;
   }
+
+  @media only screen and (max-width: 600px) {
+    .banner-text-area{
+      right: 20px;
+      bottom: -65px;
+      width: 208px;
+    }
+    .banner-text-area .slide-no{
+      font-size: 29px;
+    }
+    .divider{
+      border: 2px solid #fff;
+      width: 57%;
+      margin-bottom: 9px;
+    }
+    .banner-text-area .slide-text{
+      font-size: 18px;
+      line-height: 6px;
+    }
+    .diya-area{
+      display: none;
+    }
+  }
